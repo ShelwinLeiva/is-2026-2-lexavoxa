@@ -6,7 +6,7 @@ Aplicativo web orientado al aprendizaje del idioma inglés, desarrollado con Jav
 - Shelwin Leiva (@ShelwinLeiva) - Mantenedor
 - Weimar Garcia (@Garcia-07) - Desarrollador
 - Jhoyner Martínez (@JHOYNER-D) - Revisor
-
+- Juan Sampayo (@Sampayo-z) - Relator
 
 
 ## Tecnologías
