@@ -4,6 +4,7 @@ Aplicativo web orientado al aprendizaje del idioma inglés, desarrollado con Jav
 
 ## Integrantes
 - Shelwin Leiva (@ShelwinLeiva) - Mantenedor
+- Weimar Garcia (@Garcia-07) - Desarrollador
 
 ## Tecnologías
 - Java 17 + Spring Boot
