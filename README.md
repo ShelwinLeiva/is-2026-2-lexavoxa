@@ -5,7 +5,8 @@ Aplicativo web orientado al aprendizaje del idioma inglés, desarrollado con Jav
 ## Integrantes
 - Shelwin Leiva (@ShelwinLeiva) - Mantenedor
 - Weimar Garcia (@Garcia-07) - Desarrollador
-- Jhoyner Martinez <JHOYNER-D> https://github.com/JHOYNER-D
+- Jhoyner Martínez (@JHOYNER-D) - Revisor
+
 
 
 ## Tecnologías
