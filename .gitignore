@@ -1,0 +1,47 @@
+# ===== Compiled files =====
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ===== Maven =====
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# ===== IDE - IntelliJ IDEA =====
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ===== IDE - Eclipse =====
+.settings/
+.project
+.classpath
+.factorypath
+
+# ===== IDE - VS Code =====
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Environment / Secrets =====
+.env
+*.env
+application-local.properties
+application-local.yml
+
+# ===== MongoDB data (local) =====
+data/
