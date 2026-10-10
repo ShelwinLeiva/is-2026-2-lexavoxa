@@ -1,3 +1,3 @@
 # Reglas de Agenda
 
-Máximo de usuarios por día: 20
+Máximo de usuarios por día: 25
